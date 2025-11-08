@@ -1,0 +1,10 @@
+@media (max-width:1440px) {
+    footer{
+        max-width: 67% !important;
+    }    
+}
+@media (max-width:1024px) {
+    footer{
+        max-width: 95% !important;
+    }    
+}
